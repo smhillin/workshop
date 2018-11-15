@@ -1,4 +1,4 @@
-# Gravitational Workshops
+# Workshops
 
 Open source series of workshops delivered by Gravitational services team.
 
